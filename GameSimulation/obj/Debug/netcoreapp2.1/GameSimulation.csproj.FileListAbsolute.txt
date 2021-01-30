@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\GameSimulation\GameSimulation\obj\Debug\netcoreapp2.1\GameSimulation.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\GameSimulation\GameSimulation\obj\Debug\netcoreapp2.1\GameSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\GameSimulation\GameSimulation\obj\Debug\netcoreapp2.1\GameSimulation.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\GameSimulation\GameSimulation\obj\Debug\netcoreapp2.1\GameSimulation.AssemblyInfo.cs
+C:\Users\Asus\source\repos\GameSimulation\GameSimulation\bin\Debug\netcoreapp2.1\GameSimulation.deps.json
+C:\Users\Asus\source\repos\GameSimulation\GameSimulation\bin\Debug\netcoreapp2.1\GameSimulation.runtimeconfig.json
+C:\Users\Asus\source\repos\GameSimulation\GameSimulation\bin\Debug\netcoreapp2.1\GameSimulation.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\GameSimulation\GameSimulation\bin\Debug\netcoreapp2.1\GameSimulation.dll
+C:\Users\Asus\source\repos\GameSimulation\GameSimulation\bin\Debug\netcoreapp2.1\GameSimulation.pdb
+C:\Users\Asus\source\repos\GameSimulation\GameSimulation\obj\Debug\netcoreapp2.1\GameSimulation.dll
+C:\Users\Asus\source\repos\GameSimulation\GameSimulation\obj\Debug\netcoreapp2.1\GameSimulation.pdb
